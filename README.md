@@ -1,3 +1,13 @@
-👋 Hey, we are SoftGain, The People Are Who We Are 👋
+[Open {ThePeople} ]
 
-❗ We make quality Software and Hardware products, for the people, not for the profit. ❗
+[VARIABLE {SUPRISE} {Text} {"Quality"} END]
+
+[PRINT {"💕 We are not just "<< {Suprise} >>", we are your dreams. 🌟" END]
+
+[CLOSE]
+
+>>Run ThePeople.CreateLang
+
+@Output:
+
+💕 We are not just Quality, we are your dreams. 🌟
