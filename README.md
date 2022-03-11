@@ -6,7 +6,7 @@
 
 [CLOSE]
 
->>Run ThePeople.CreateLang
+@Run ThePeople.CreateLang
 
 @Output:
 
